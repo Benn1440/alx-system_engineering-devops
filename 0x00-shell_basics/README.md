@@ -8,4 +8,5 @@
  ls -l
  #### Display current directory contents, including hidden files (starting with .). Use the long format.
  ls -la
- 
+ #### long format, group and user IDs and hidden files
+ ls -nal
