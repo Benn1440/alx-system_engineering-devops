@@ -18,3 +18,5 @@
  rm /tmp/my_first_directory/betty
  #### Delete the directory my_first_directory that is in the /tmp directory.
  rmdir /tmp/my_first_directory
+ #### Write a script that changes the working directory to the previous one.
+ cd -
