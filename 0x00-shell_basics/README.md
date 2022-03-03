@@ -6,4 +6,6 @@
  cd 
  #### Display current directory contents in a long format
  ls -l
+ #### Display current directory contents, including hidden files (starting with .). Use the long format.
+ ls -la
  
